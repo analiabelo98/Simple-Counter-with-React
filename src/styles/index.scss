@@ -11,3 +11,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    background-color: black;
+    text-align: center;
+   
+   
+}
+
+.container div {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(22, 22, 22);
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+    margin: 20px;
+     border-radius: 20px;
+}
